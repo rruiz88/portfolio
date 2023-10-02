@@ -14,14 +14,14 @@ const About = () => {
           <p className="mb-8 leading-relaxed">
             I was laid off over a year ago working as a licensed insurance sales
             agent and took that time to develop my programming skills with the
-            help of a non-profit called
+            help of a non-profit,
             <a
               href="https://www.launchcode.org/"
               className="hover:text-blue-400"
             >
               {" "}
               LaunchCode.
-            </a>
+            </a>{" "}
             During this time, I have developed a deep understanding of these
             technologies and have used them to build a variety of applications.
             I am comfortable working with both front-end and back-end

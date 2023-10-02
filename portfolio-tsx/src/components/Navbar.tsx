@@ -49,23 +49,18 @@ const Navbar = () => {
         className="fixed inset-0 z-20 hidden flex-col items-center self-end w-full h-full m-h-screen px-6 py-1 pt-24 pb-4 tracking-widest text-white uppercase divide-y divide-gray-500 opacity-90 bg-veryDarkBlue"
       >
         <div className="w-full py-3 text-center">
-          <a href="#features" className="block hover:text-white">
-            Features
+          <a href="#about" className="block hover:text-white">
+            About
           </a>
         </div>
         <div className="w-full py-3 text-center">
-          <a href="#download" className="block hover:text-white">
-            Download
+          <a href="#projects" className="block hover:text-white">
+            Projects
           </a>
         </div>
         <div className="w-full py-3 text-center">
-          <a href="#faq" className="block hover:text-white">
-            FAQ
-          </a>
-        </div>
-        <div className="w-full py-3 text-center">
-          <a href="#" className="block hover:text-softRed">
-            Login
+          <a href="#contact" className="block hover:text-white">
+            Contact
           </a>
         </div>
       </div>
