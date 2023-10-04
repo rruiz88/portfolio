@@ -29,7 +29,7 @@ const About = () => {
             Through these experiences, I have developed strong communication
             skills and am able to work effectively with others. I am excited
             about the opportunity to bring my skills and experience to your
-            comapny and believe that I would be an asset to your team.
+            company and believe that I would be an asset to your team.
           </p>
           <div className="flex justify-center">
             <a

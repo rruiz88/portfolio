@@ -4,7 +4,7 @@ const Contact = () => {
       <form
         netlify
         name="contact"
-        className="flex flex-col justify-center items-center"
+        className="flex flex-col justify-center items-center mt-10"
       >
         <h2 className="text-blue-400 sm:text-4xl text-3xl mb-1 font-medium title-font">
           Hire Me
